@@ -20,4 +20,4 @@ function AntiAFKSystem()
     Clock = os.clock() + math.random(60,120)
 myHero:MoveTo(myHero.x, myHero.z)
   end
-end
+
